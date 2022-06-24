@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <p>HERE IS A LINK TO</p>
-  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYusun&count_bg=%233178C6&title_bg=%23F4F6FF&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)](https://hits.seeyoufarm.com)
   
   <br />
