@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Hello!%20I'm%20Yusun.&fontSize=45&fontColor=ffa040&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Hello!%20I'm%20Yusun.&fontSize=45&fontColor=00008B&animation=fadeIn)
 
 <div align="center">
   
