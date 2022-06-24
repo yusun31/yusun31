@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Hello!%20I'm%20Y0ungZ.&fontSize=45&fontColor=ffa040&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Hello!%20I'm%20Yusun.&fontSize=45&fontColor=ffa040&animation=fadeIn)
 
 <div align="center">
   
   <p>HERE IS A LINK TO</p>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FY0ungZ&count_bg=%233178C6&title_bg=%23F4F6FF&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYusun&count_bg=%233178C6&title_bg=%23F4F6FF&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)](https://hits.seeyoufarm.com)
   
   <br />
   
-![Y0ungZ's github stats](https://github-readme-stats.vercel.app/api?username=yusun31&show_icons=true&theme=tokyonight)
+![Yusun's github stats](https://github-readme-stats.vercel.app/api?username=yusun31&show_icons=true&theme=tokyonight)
 
   
     
